@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<img alt="languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-X&layout=compact&theme=vue-dark&card_width=400&langs_count=20" />
+
+<!--
+repo homepage = https://github.com/anuraghazra/github-readme-stats
+themes color = https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+-->
+
 
 <!--
 **Rafa-X/Rafa-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
