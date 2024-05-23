@@ -1,5 +1,9 @@
 
-<img alt="languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-X&layout=compact&theme=vue-dark&card_width=400&langs_count=20" />
+
+
+<p align="center" style="margin-bottom: 0px;">
+  <img alt="languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-X&layout=compact&theme=vue-dark&card_width=400&langs_count=20" />
+</p>
 
 <!--
 repo homepage = https://github.com/anuraghazra/github-readme-stats
