@@ -8,6 +8,7 @@ themes color = https://github.com/anuraghazra/github-readme-stats/blob/master/th
 </p>
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)]()
+[![ReactNative](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![Pytest](https://img.shields.io/badge/Pytest-4B8BBE?style=for-the-badge&logo=Pytest&logoColor=white)]()
 <br>
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
