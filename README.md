@@ -7,6 +7,7 @@ themes color = https://github.com/anuraghazra/github-readme-stats/blob/master/th
   <img alt="languages" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-X&layout=compact&theme=vue-dark&card_width=400&langs_count=20" />
 </p>
 
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)]()
 [![ReactNative](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![Pytest](https://img.shields.io/badge/Pytest-4B8BBE?style=for-the-badge&logo=Pytest&logoColor=white)]()
